@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Booking page" skipped="0" tests="2" time="74.84" timestamp="2020-10-18 09:57:10"><testcase name="booking an hotel"/><testcase name="selecting again the number of rooms and fill in the form"><error message="element click intercepted: Element &lt;button class=&quot;txp-bui-main-pp bui-button bui-button--primary &#10;hp_rt_input js-reservation-button&#10;&quot; type=&quot;submit&quot; data-title=&quot;&#10;    &lt;div class='big_tooltip_x'&gt;&#10;        &lt;h1&gt;GHL Hotel Tequendama Bogotá&lt;/h1&gt;&#10;&#10;        &lt;p&gt;&#10;            &lt;strong&gt;&#10;                &#10;                    Habitación Doble - 2 camas&#10;                &#10;            &lt;/strong&gt;&#10;            &lt;br /&gt;&#10;        &lt;/p&gt;&#10;&#10;        &lt;hr/&gt;&#10;&#10;        &lt;p&gt;&#10;            &lt;strong&gt;Duración total de la estancia: 15 noches&lt;/strong&gt;&lt;br /&gt;&#10;        &lt;/p&gt;&#10;&#10;        &lt;p&gt;&#10;            Entrada: &lt;/span&gt;martes, 17 de noviembre de 2020&#10;        &lt;/p&gt;&#10;&#10;        &lt;p&gt;&#10;            Salida: &lt;/span&gt;miércoles, 2 de diciembre de 2020&#10;        &lt;/p&gt;&#10;    &lt;/div&gt;&#10;&#10;    &lt;div class='big_tooltip_message'&gt;&#10;        &#10;            ¡No necesitas tener cuenta! Reserva en solo 2 minutos.&#10;        &#10;    &lt;/div&gt;&#10;&#10;    &#10;        &#10;    &#10;&#10;&quot; data-tooltip-class=&quot;submit_holder_button_tooltip&quot;&gt;...&lt;/button&gt; is not clickable at point (1059, 872). Other element would receive the click: &lt;div class=&quot;hprt-table-cell -last hprt-reservation-summary-col js-hprt-reservation-summary hprt-block--room-selected&quot; data-component=&quot;hotel/new-rooms-table/summary/fade&quot;&gt;...&lt;/div&gt;&#10;  (Session info: chrome=86.0.4240.80)&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'ecorregidor.local', ip: 'fe80:0:0:0:d6:6291:e881:625e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.7'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/5q/ngshy03j6_n...}, goog:chromeOptions: {debuggerAddress: localhost:53171}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: 8fd7c5a9f962dcce8f739e6442ee5aec&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'ecorregidor.local', ip: 'fe80:0:0:0:d6:6291:e881:625e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.7'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.ElementClickInterceptedException">element click intercepted: Element &lt;button class="txp-bui-main-pp bui-button bui-button--primary 
+hp_rt_input js-reservation-button
+" type="submit" data-title="
+    &lt;div class='big_tooltip_x'&gt;
+        &lt;h1&gt;GHL Hotel Tequendama Bogotá&lt;/h1&gt;
+
+        &lt;p&gt;
+            &lt;strong&gt;
+                
+                    Habitación Doble - 2 camas
+                
+            &lt;/strong&gt;
+            &lt;br /&gt;
+        &lt;/p&gt;
+
+        &lt;hr/&gt;
+
+        &lt;p&gt;
+            &lt;strong&gt;Duración total de la estancia: 15 noches&lt;/strong&gt;&lt;br /&gt;
+        &lt;/p&gt;
+
+        &lt;p&gt;
+            Entrada: &lt;/span&gt;martes, 17 de noviembre de 2020
+        &lt;/p&gt;
+
+        &lt;p&gt;
+            Salida: &lt;/span&gt;miércoles, 2 de diciembre de 2020
+        &lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class='big_tooltip_message'&gt;
+        
+            ¡No necesitas tener cuenta! Reserva en solo 2 minutos.
+        
+    &lt;/div&gt;
+
+    
+        
+    
+
+" data-tooltip-class="submit_holder_button_tooltip"&gt;...&lt;/button&gt; is not clickable at point (1059, 872). Other element would receive the click: &lt;div class="hprt-table-cell -last hprt-reservation-summary-col js-hprt-reservation-summary hprt-block--room-selected" data-component="hotel/new-rooms-table/summary/fade"&gt;...&lt;/div&gt;
+  (Session info: chrome=86.0.4240.80)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'ecorregidor.local', ip: 'fe80:0:0:0:d6:6291:e881:625e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/5q/ngshy03j6_n...}, goog:chromeOptions: {debuggerAddress: localhost:53171}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 8fd7c5a9f962dcce8f739e6442ee5aec
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'ecorregidor.local', ip: 'fe80:0:0:0:d6:6291:e881:625e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.7'
+Driver info: driver.version: unknown</error><system-err>element click intercepted: Element &lt;button class="txp-bui-main-pp bui-button bui-button--primary 
+hp_rt_input js-reservation-button
+" type="submit" data-title="
+    &lt;div class='big_tooltip_x'&gt;
+        &lt;h1&gt;GHL Hotel Tequendama Bogotá&lt;/h1&gt;
+
+        &lt;p&gt;
+            &lt;strong&gt;
+                
+                    Habitación Doble - 2 camas
+                
+            &lt;/strong&gt;
+            &lt;br /&gt;
+        &lt;/p&gt;
+
+        &lt;hr/&gt;
+
+        &lt;p&gt;
+            &lt;strong&gt;Duración total de la estancia: 15 noches&lt;/strong&gt;&lt;br /&gt;
+        &lt;/p&gt;
+
+        &lt;p&gt;
+            Entrada: &lt;/span&gt;martes, 17 de noviembre de 2020
+        &lt;/p&gt;
+
+        &lt;p&gt;
+            Salida: &lt;/span&gt;miércoles, 2 de diciembre de 2020
+        &lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class='big_tooltip_message'&gt;
+        
+            ¡No necesitas tener cuenta! Reserva en solo 2 minutos.
+        
+    &lt;/div&gt;
+
+    
+        
+    
+
+" data-tooltip-class="submit_holder_button_tooltip"&gt;...&lt;/button&gt; is not clickable at point (1059, 872). Other element would receive the click: &lt;div class="hprt-table-cell -last hprt-reservation-summary-col js-hprt-reservation-summary hprt-block--room-selected" data-component="hotel/new-rooms-table/summary/fade"&gt;...&lt;/div&gt;
+  (Session info: chrome=86.0.4240.80)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'ecorregidor.local', ip: 'fe80:0:0:0:d6:6291:e881:625e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/5q/ngshy03j6_n...}, goog:chromeOptions: {debuggerAddress: localhost:53171}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 8fd7c5a9f962dcce8f739e6442ee5aec
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'ecorregidor.local', ip: 'fe80:0:0:0:d6:6291:e881:625e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '11.0.7'
+Driver info: driver.version: unknown
+java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Booking.pages.SelectedHotelPage.clickOnContinue(SelectedHotelPage.java:83)
+Booking.steps.homePageSteps.continueClickingOnTheButtonToConfirm(homePageSteps.java:82)
+✽.continue clicking on the button to confirm(src/test/resources/Booking.feature:19)
+</system-err></testcase></testsuite>
