@@ -17,7 +17,7 @@ public class SelectedHotelPage extends BasePage {
     @FindBy(id = "hp_hotel_name")
     private WebElement _nameOfTheHotelInThePage;
 
-    @FindBy(css = ".prco-text-nowrap-helper .bui-price-display__value")
+    @FindBy(css = ".totalPrice .bui-price-display__value")
     private WebElement _priceInThePageOfTheHotel;
 
     @FindBy(css = ".prco-wrapper .bui-price-display__label")

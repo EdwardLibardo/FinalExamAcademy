@@ -53,7 +53,7 @@ public class HomePage extends BasePage {
     }
 
     public HomePage verifyTheUserIsInTheHomePage() {
-        WebDriverWait wait = new WebDriverWait(driver, 3);
+        WebDriverWait wait = new WebDriverWait(driver, 5);
         wait.until(ExpectedConditions.visibilityOf(_dormirLabel)).isDisplayed();
         if (!_dormirLabel.isSelected()) {
             _dormirLabel.click();

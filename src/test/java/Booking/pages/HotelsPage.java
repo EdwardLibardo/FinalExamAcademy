@@ -32,7 +32,7 @@ public class HotelsPage extends BasePage {
         wait.until(ExpectedConditions.visibilityOf(_sortOption)).click();
         wait.until(ExpectedConditions.visibilityOf(_orderByStars)).click();
         wait.until(ExpectedConditions.visibilityOf(_descOrder)).click();
-        //Thread.sleep(5000);
+        Thread.sleep(5000);
         return this;
     }
 
